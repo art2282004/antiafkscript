@@ -1,1 +1,4 @@
 # antiafkscript
+
+
+Скрипт написанный ChatGPT
